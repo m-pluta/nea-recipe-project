@@ -1,0 +1,27 @@
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\bin\Debug\Recipe Project.exe.config
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\bin\Debug\Recipe Project.exe
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\bin\Debug\Recipe Project.pdb
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\bin\Debug\Recipe Project.xml
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe Project.vbprojAssemblyReference.cache
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.Form1.resources
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.Resources.resources
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe Project.vbproj.GenerateResource.cache
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe Project.vbproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe Project.exe
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe Project.xml
+C:\Users\Michal\source\repos\Recipe Project\Recipe Project\obj\Debug\Recipe Project.pdb
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\bin\Debug\Recipe Project.exe.config
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\bin\Debug\Recipe Project.exe
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\bin\Debug\Recipe Project.pdb
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\bin\Debug\Recipe Project.xml
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe Project.vbprojAssemblyReference.cache
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.Resources.resources
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe Project.vbproj.GenerateResource.cache
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe Project.vbproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe Project.exe
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe Project.xml
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe Project.pdb
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.formAdd.resources
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.formStart.resources
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.formUse.resources
+C:\Users\Michal\Desktop\Recipe project\Recipe Project\Recipe Project\obj\Debug\Recipe_Project.RevisedRecipe.resources
